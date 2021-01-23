@@ -1,6 +1,4 @@
-wikipedia==1.4.0
 Flask==1.1.2
 requests==2.22.0
 beautifulsoup4==4.9.3
-gunicorn 
 lxml
