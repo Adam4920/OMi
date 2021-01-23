@@ -17,6 +17,7 @@ Today, we unveil an app that will change how we diagnose diseases. Today, we int
 * Change into the flask directory: ```cd OMi/flask```.
 * Install OMi requirements: ``` python3 -m pip install -r requirements.txt```.
 * Run OMi: ```python3 app.py```.
+* Access OMi website by going to ```localhost:8080/``` in your browser.
 
 ## What is it?
 **OMi is a web-app that analyses user-inputted symptoms and informs them of possible diseases they have, suggesting forms of treatment**. Designed with simplicity in mind, all you need to do is go onto the site, indicate your symptoms, and boom -- *OMi pinpoints what disease you have and possible treatments for that disease.*
