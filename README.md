@@ -8,6 +8,16 @@ To the people who want to see if they have either COVID-19 or the flu but can’
 
 Today, we unveil an app that will change how we diagnose diseases. Today, we introduce ***OMi: Health Made Easy***.
 
+![OMi home page.](https://github.com/kevin200617/OMi/blob/main/images/1.png?raw=true)
+![OMi find your disease page.](https://github.com/kevin200617/OMi/blob/main/images/2.png?raw=true)
+![OMi found disease.](https://github.com/kevin200617/OMi/blob/main/images/3.png?raw=true)
+
+# Setup Instructions
+* Clone the repository: ```git clone https://github.com/kevin200617/OMi```.
+* Change into the flask directory: ```cd OMi/flask```.
+* Install OMi requirements: ``` python3 -m pip install -r requirements.txt```.
+* Run OMi: ```python3 app.py```.
+
 ## What is it?
 **OMi is a web-app that analyses user-inputted symptoms and informs them of possible diseases they have, suggesting forms of treatment**. Designed with simplicity in mind, all you need to do is go onto the site, indicate your symptoms, and boom -- *OMi pinpoints what disease you have and possible treatments for that disease.*
 
